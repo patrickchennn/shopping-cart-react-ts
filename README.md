@@ -1,6 +1,10 @@
 # shopping-cart-react-ts
 This app is created by following tutorial:
 youtube.com/watch?v=lATafp15HWA&t=1300s
+## Install modules
+```
+npm i
+```
 ## Start The Webpage
 The default port is 3000
 ```
